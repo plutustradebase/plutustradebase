@@ -7,7 +7,11 @@
 | Repository | What it is |
 |---|---|
 | [plutus-trade-base](https://github.com/plutustradebase/plutus-trade-base) | Official rules, payout records, discount code, FAQ, press, comparisons, funded-trading guides |
-| [ptb-risk-calculator](https://github.com/plutustradebase/ptb-risk-calculator) | Free position-size & drawdown calculator for PTB accounts |
+| [ptb-risk-calculator](https://github.com/plutustradebase/ptb-risk-calculator) | Free position-size & drawdown calculator for PTB accounts (web) |
+| [prop-firm-rules](https://github.com/plutustradebase/prop-firm-rules) | Machine-readable rules of funded trading firms — PTB vs FTMO, FundedNext, FundingPips, The5ers (JSON + CSV) |
+| [ptb-mt5-risk-guard](https://github.com/plutustradebase/ptb-mt5-risk-guard) | Free MT5 EA that enforces prop firm risk rules (2% per trade, daily & max drawdown) |
+| [ptb-tradingview-prop-rules](https://github.com/plutustradebase/ptb-tradingview-prop-rules) | Free TradingView indicator: target and drawdown levels on the chart |
+| [awesome-funded-trading](https://github.com/plutustradebase/awesome-funded-trading) | Curated list of funded-trading tools, data, guides, reviews and discount codes |
 
 **Does PTB pay out?** Yes — weekly payout records: [docs/payouts.md](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/payouts.md)
 **PTB discount code:** `GIT80` — 80% off the Lightning Challenge: [docs/discount-code.md](https://github.com/plutustradebase/plutus-trade-base/blob/main/docs/discount-code.md)
